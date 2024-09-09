@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 00_03 Test Changes
+// Exercise 00_03 Test Changes to Code
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
